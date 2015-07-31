@@ -5,7 +5,7 @@
 # EDIFY properties
 kernel.string=AnyKernel For The Zenfone 2
 do.devicecheck=1
-do.initd=1
+do.initd=0
 do.modules=0
 do.cleanup=1
 device.name1=Z00A
